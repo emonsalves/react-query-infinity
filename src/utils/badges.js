@@ -1,0 +1,41 @@
+const BadgeColors = {
+    fire: '#ff9800',
+    water: '#2196f3',
+    grass: '#4caf50',
+    electric: '#ffeb3b',
+    normal: '#9e9e9e',
+    fighting: '#795548',
+    flying: '#9fa8da',
+    poison: '#673ab7',
+    ground: '#795548',
+    rock: '#795548',
+    bug: '#795548',
+    ghost: '#795548',
+    steel: '#795548',
+    dragon: '#795548',
+    dark: '#795548',
+    fairy: '#795548',
+    ice: '#795548',
+    psychic: '#795548',
+};
+
+const Badges = {
+    fire: 'fire',
+    water: 'water',
+    grass: 'grass',
+    electric: 'electric',
+    normal: 'normal',
+    fighting: 'fighting',
+    flying: 'flying',
+    poison: 'poison',
+    ground: 'ground',
+    rock: 'rock',
+    bug: 'bug',
+    ghost: 'ghost',
+    steel: 'steel',
+    dragon: 'dragon',
+    dark: 'dark',
+    fairy: 'fairy',
+};
+
+export { BadgeColors, Badges };
